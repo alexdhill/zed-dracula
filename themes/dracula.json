@@ -18,16 +18,16 @@
                 ],
                 "background.appearance": "blurred",
 
+                "background": "#282a3688",
                 "elevated_surface.background": "#1e1925cc",
                 "surface.background": "#24263166",
-                "background": "#282a3688",
 
                 "border": "#a186c766",
                 "border.variant": "#504364ff",
                 "border.focused": "#C9A8F9ff",
                 "border.selected": "#d4b9faff",
                 "border.transparent": "#282a3633",
-                "border.disabled": "#6272a4ff",
+                "border.disabled": "#6272a466",
 
                 "element.background": "#1c1d2633",
                 "element.hover": "#504364cc",
@@ -43,8 +43,8 @@
                 "ghost_element.disabled": "#ff555566",
 
                 "text": "#f8f8f2ff",
-                "text.muted": "#a186c7cc",
-                "text.placeholder": "#a186c7cc",
+                "text.muted": "#BD93F9cc",
+                "text.placeholder": "#6272A4ff",
                 "text.disabled": "#65547dff",
                 "text.accent": "#C9A8F9ff",
 
@@ -65,8 +65,8 @@
 
                 "panel.background": "#0a080c00",
                 "panel.focused_border": "#C9A8F9FF",
-                "panel.indent_guide": "#323230cc",
-                "panel.indent_guide_active": "#5f4a7dcc",
+                "panel.indent_guide": "#5f4a7dcc",
+                "panel.indent_guide_active": "#323230cc",
                 "panel.indent_guide_hover": "#423357cc",
                 "pane.focused_border": "#C9A8F9cc",
                 "pane_group.border": "#3c324bcc",
