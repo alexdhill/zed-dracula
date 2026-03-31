@@ -18,7 +18,7 @@
                 ],
                 "background.appearance": "blurred",
 
-                "background": "#282a3688",
+                "background": "#282A36DD",
                 "elevated_surface.background": "#1e1925cc",
                 "surface.background": "#24263166",
                 "drop_target.background": "#50436466",
@@ -54,8 +54,8 @@
                 "icon.disabled": "#65547dFF",
                 "icon.muted": "#BD93F9FF",
 
-                "status_bar.background": "#14151baa",
-                "title_bar.background": "#14151baa",
+                "status_bar.background": "#14151bDD",
+                "title_bar.background": "#14151bDD",
                 "title_bar.inactive_background": "#0a080caa",
                 "search.match_background": "#287d3ecc",
                 "toolbar.background": "#282a3633",
