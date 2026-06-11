@@ -18,12 +18,12 @@
                 ],
                 "background.appearance": "blurred",
 
-                "background": "#282A36A9",
+                "background": "#282A36aa",
                 "elevated_surface.background": "#1e1925cc",
                 "surface.background": "#24263166",
                 "drop_target.background": "#50436466",
 
-                "border": "#a186c766",
+                "border": "#a186c733",
                 "border.variant": "#504364ff",
                 "border.selected": "#d4b9faff",
                 "border.focused": "#C9A8F9ff",
@@ -54,9 +54,9 @@
                 "icon.disabled": "#65547dFF",
                 "icon.muted": "#BD93F9FF",
 
-                "status_bar.background": "#14151bDD",
-                "title_bar.background": "#14151bDD",
-                "title_bar.inactive_background": "#0a080caa",
+                "status_bar.background": "#14151Bcc",
+                "title_bar.background": "#14151bcc",
+                "title_bar.inactive_background": "#0a080ccc",
                 "search.match_background": "#287d3ecc",
                 "toolbar.background": "#282a3633",
                 "tab_bar.background": "#14151b00",
@@ -81,7 +81,7 @@
                 "editor.background": "#282a3600",
                 "editor.gutter.background": "#282a3600",
                 "editor.subheader.background": "#1e192500",
-                "editor.active_line.background": "#44475acc",
+                "editor.active_line.background": "#F8F8F222",
                 "editor.highlighted_line.background": "#44475a66",
                 "editor.line_number": "#7c7c79ff",
                 "editor.active_line_number": "#C9A8F9ff",
@@ -91,8 +91,8 @@
                 "editor.document_highlight.read_background": "#504364aa",
                 "editor.document_highlight.write_background": "#44475aaa",
                 "editor.document_highlight.bracket_background": "#6272A4aa",
-                "editor.indent_guide": "#5f4a7dff",
-                "editor.indent_guide_active": "#6272A4cc",
+                "editor.indent_guide": "#6272A4cc",
+                "editor.indent_guide_active": "#5f4a7dff",
                 "link_text.hover": "#8be9fdff",
 
                 "terminal.background": "#14151b33",
@@ -177,37 +177,37 @@
                     {
                         "cursor": "#bd93f9cc",
                         "background": "#bd93f9cc",
-                        "selection": "#bd93f9aa"
+                        "selection": "#bd93f966"
                     },
                     {
                         "cursor": "#50fa7bcc",
                         "background": "#50fa7bcc",
-                        "selection": "#50fa7baa"
+                        "selection": "#50fa7b66"
                     },
                     {
                         "cursor": "#ff79c6cc",
                         "background": "#ff79c6cc",
-                        "selection": "#ff79c6aa"
+                        "selection": "#ff79c666"
                     },
                     {
                         "cursor": "#f1fa8ccc",
                         "background": "#f1fa8ccc",
-                        "selection": "#f1fa8caa"
+                        "selection": "#f1fa8c66"
                     },
                     {
                         "cursor": "#8be9fdcc",
                         "background": "#8be9fdcc",
-                        "selection": "#8be9fdaa"
+                        "selection": "#8be9fd66"
                     },
                     {
                         "cursor": "#ffb86ccc",
                         "background": "#ffb86ccc",
-                        "selection": "#ffb86caa"
+                        "selection": "#ffb86c66"
                     },
                     {
                         "cursor": "#ff5555cc",
                         "background": "#ff5555cc",
-                        "selection": "#ff5555aa"
+                        "selection": "#ff555566"
                     }
                 ],
                 "syntax": {
@@ -445,7 +445,7 @@
                 "background.appearance": "blurred",
 
                 "background": "#282A36DD",
-                "elevated_surface.background": "#1e1925cc",
+                "elevated_surface.background": "#1e192566",
                 "surface.background": "#24263166",
                 "drop_target.background": "#50436466",
 
