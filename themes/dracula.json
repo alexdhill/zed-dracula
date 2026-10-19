@@ -44,7 +44,7 @@
 
                 "text": "#f8f8f2ff",
                 "text.accent": "#C9A8F9FF",
-                "text.placeholder": "#6272A4FF",
+                "text.placeholder": "#F8F8F2AA",
                 "text.muted": "#BD93F9FF",
                 "text.disabled": "#f8f8f266",
 
@@ -125,7 +125,7 @@
                 "terminal.ansi.bright_white": "ffffffff",
                 "terminal.ansi.dim_white": "#c6c6c2ff",
 
-                "conflict": "#FFB86CFF",
+                "conflict": "#FFB86CCC",
                 "conflict.background": "#FFB86C66",
                 "conflict.border": "#FFB86CCC",
                 "created": "#50FA7B",
@@ -445,7 +445,7 @@
                 "background.appearance": "blurred",
 
                 "background": "#282A36DD",
-                "elevated_surface.background": "#1e192566",
+                "elevated_surface.background": "#1e1925CC",
                 "surface.background": "#24263166",
                 "drop_target.background": "#50436466",
 
@@ -596,8 +596,8 @@
                 "version_control.added": "#50FA7B",
                 "version_control.deleted": "#FF5555",
                 "version_control.modified": "#FFB86C",
-                "version_control.conflict_marker.ours": "#BD93F9",
-                "version_control.conflict_marker.theirs": "#FF79C6",
+                "version_control.conflict_marker.ours": "#BD93F9AA",
+                "version_control.conflict_marker.theirs": "#FF79C6AA",
 
                 "players": [
                     {
