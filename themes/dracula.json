@@ -603,37 +603,37 @@
                     {
                         "cursor": "#bd93f9cc",
                         "background": "#bd93f9cc",
-                        "selection": "#bd93f9aa"
+                        "selection": "#bd93f966"
                     },
                     {
                         "cursor": "#50fa7bcc",
                         "background": "#50fa7bcc",
-                        "selection": "#50fa7baa"
+                        "selection": "#50fa7b66"
                     },
                     {
                         "cursor": "#ff79c6cc",
                         "background": "#ff79c6cc",
-                        "selection": "#ff79c6aa"
+                        "selection": "#ff79c666"
                     },
                     {
                         "cursor": "#f1fa8ccc",
                         "background": "#f1fa8ccc",
-                        "selection": "#f1fa8caa"
+                        "selection": "#f1fa8c66"
                     },
                     {
                         "cursor": "#8be9fdcc",
                         "background": "#8be9fdcc",
-                        "selection": "#8be9fdaa"
+                        "selection": "#8be9fd66"
                     },
                     {
                         "cursor": "#ffb86ccc",
                         "background": "#ffb86ccc",
-                        "selection": "#ffb86caa"
+                        "selection": "#ffb86c66"
                     },
                     {
                         "cursor": "#ff5555cc",
                         "background": "#ff5555cc",
-                        "selection": "#ff5555aa"
+                        "selection": "#ff555566"
                     }
                 ],
                 "syntax": {
